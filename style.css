@@ -1,0 +1,26 @@
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #eaf9ea;
+    color: #333;
+    margin: 0;
+    padding: 0;
+}
+header {
+    background-color: #2e7d32;
+    color: white;
+    padding: 20px;
+    text-align: center;
+}
+.user-selection {
+    margin-top: 30px;
+}
+.user-selection a {
+    display: inline-block;
+    margin: 0 15px;
+    padding: 10px 20px;
+    background-color: #66bb6a;
+    color: white;
+    text-decoration: none;
+    border-radius: 5px;
+}
